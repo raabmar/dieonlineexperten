@@ -3950,3 +3950,11 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+
+
+/* MR: Additional customization */
+
+		.color2 {
+    background: #37416a;
+}
